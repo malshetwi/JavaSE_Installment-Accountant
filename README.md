@@ -6,7 +6,7 @@
 
 ## App overview :
 
-![1](https://user-images.githubusercontent.com/59418749/189479279-96ed096e-bd9b-4160-9bf0-1ab23af9cacc.jpg)
+![1](https://user-images.githubusercontent.com/59418749/189479433-3e813435-41a3-4f12-a543-aefdcaacd2b0.jpg)
 
 ![2](https://user-images.githubusercontent.com/59418749/189479289-b71cefba-e30b-42cd-a960-323a7e1bdcf5.jpg)
 
