@@ -1,7 +1,8 @@
 # JavaSE_InstallmentAccountant
 
-## Installment Accountant applet, used example on cars seals.
-## Program Messages in Arabic and English language
+### Installment Accountant applet, used example on cars seals.
+### Program Messages in Arabic and English language
+
 
 ## App overview :
 
